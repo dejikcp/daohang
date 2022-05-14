@@ -12,3 +12,6 @@ contacts:
 domains:
   - domain: https://blog.imkcp.xyz/
     description: "imkcp的blog"
+    price: 500w
+
+
