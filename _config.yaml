@@ -11,7 +11,9 @@ contacts:
 
 domains:
   - domain: https://blog.imkcp.xyz/
-    description: "imkcp的blog"
+    description: "@imkcp的blog"
+  - domain: lajilao.com
+    description: "@垃圾佬"    
     price: 500w
 
 
